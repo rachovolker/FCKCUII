@@ -2,7 +2,7 @@
 
 ## Was ist die CUII?
 
-Die CUII ist ein Zusammenschluss aller großer Internet Zugangsprovider sowie Rechteinhabern in Deutschland. War es zuvor noch nötig den Gerichtlichen Weg zu gehen um eine Website eventuell vom Netz zu Sperren, so können dies sie nun einfach so, ohne richterlichen Beschluss tun.
+Die CUII ist ein Zusammenschluss aller großer Internet Zugangsprovider sowie Rechteinhabern in Deutschland. War es zuvor noch nötig den Gerichtlichen Weg zu gehen um eine Website eventuell vom Netz zu Sperren, so können sie dies nun einfach so, ohne richterlichen Beschluss tun.
 
 
 So beschreibt sich die CUII selbst.
